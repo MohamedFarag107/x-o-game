@@ -1,2 +1,2 @@
-# x o Game with React - Firebase - Redux toolkit
+# x o Game with React - Redux toolkit
 https://x-o-game-react.web.app/
